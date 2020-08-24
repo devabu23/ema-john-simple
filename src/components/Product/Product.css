@@ -14,8 +14,8 @@
 }
 .button {
     background-color: goldenrod;
-    width: 130px;
-    height: 25px;
+    width: 160px;
+    height: 28px;
     border: 1px solid black;
     border-radius: 5px;
     cursor: pointer;
