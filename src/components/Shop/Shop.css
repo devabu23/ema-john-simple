@@ -2,8 +2,11 @@
     display: flex;
 }
 .product-container {
-    width: 70%;
+    width: 75%;
     margin-left: 60px;
     margin-right: 10px;
     border-right: 1px solid gray;
+}
+.cart-container {
+    width: 25%;
 }
