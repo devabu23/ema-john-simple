@@ -12,8 +12,6 @@ const Login = () => {
         email: '',
         photo: '',
         password: '',
-        error: '',
-        success: '',
     })
 
     initializeLoginFramework()
